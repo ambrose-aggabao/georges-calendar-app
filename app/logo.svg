@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- body -->
+  <ellipse cx="62" cy="108" rx="32" ry="19" fill="#7a4a24"/>
+  <ellipse cx="62" cy="112" rx="17" ry="11" fill="#e8b98a"/>
+  <!-- arm reaching up to the banana -->
+  <path d="M84 104 Q102 102 104 86" stroke="#7a4a24" stroke-width="11" fill="none" stroke-linecap="round"/>
+  <!-- other hand on belly -->
+  <circle cx="40" cy="108" r="7" fill="#8b5a2b"/>
+  <!-- ears -->
+  <circle cx="26" cy="54" r="14" fill="#8b5a2b"/>
+  <circle cx="26" cy="54" r="8" fill="#f2c79b"/>
+  <circle cx="98" cy="54" r="14" fill="#8b5a2b"/>
+  <circle cx="98" cy="54" r="8" fill="#f2c79b"/>
+  <!-- head -->
+  <circle cx="62" cy="54" r="36" fill="#8b5a2b"/>
+  <path d="M56 20 Q60 10 66 14 Q64 18 68 20 Z" fill="#8b5a2b"/>
+  <!-- face -->
+  <circle cx="50" cy="50" r="15" fill="#f4cfa0"/>
+  <circle cx="74" cy="50" r="15" fill="#f4cfa0"/>
+  <ellipse cx="62" cy="70" rx="24" ry="17" fill="#f4cfa0"/>
+  <circle cx="42" cy="68" r="4.5" fill="#f2998a" opacity=".55"/>
+  <circle cx="82" cy="68" r="4.5" fill="#f2998a" opacity=".55"/>
+  <ellipse cx="51" cy="50" rx="5" ry="6" fill="#2b1a0e"/>
+  <circle cx="53" cy="47.5" r="1.9" fill="#fff"/>
+  <ellipse cx="73" cy="50" rx="5" ry="6" fill="#2b1a0e"/>
+  <circle cx="75" cy="47.5" r="1.9" fill="#fff"/>
+  <ellipse cx="58" cy="63" rx="2.2" ry="1.6" fill="#6b3f1d"/>
+  <ellipse cx="66" cy="63" rx="2.2" ry="1.6" fill="#6b3f1d"/>
+  <path d="M50 72 Q62 84 74 72" stroke="#6b3f1d" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- banana -->
+  <path d="M99 90 C93 68 101 46 117 32 L121 36 C111 52 109 70 110 90 Z" fill="#ffd23f" stroke="#c99a00" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M103 84 C100 66 106 50 116 39" stroke="#e8b400" stroke-width="1.5" fill="none"/>
+  <circle cx="119.5" cy="33.5" r="2.6" fill="#5b3a12"/>
+  <!-- hand around the banana -->
+  <circle cx="104.5" cy="88" r="8" fill="#8b5a2b"/>
+  <ellipse cx="99" cy="84" rx="4.5" ry="3.2" fill="#8b5a2b"/>
+  <ellipse cx="99.5" cy="89" rx="4.5" ry="3.2" fill="#8b5a2b"/>
+</svg>
